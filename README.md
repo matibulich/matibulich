@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @matibulich 👋
-- 👀 I’m interested in Front End devolp 👀
+- 👀 I’m interested in Front End devolp, HTML, CSS, FRAMEWORKS, WORDPRESS👀
 - 🌱 I’m currently learning Python, JavaScript🌱 <BR>
   <br>
     https://matibulich.github.io/aboutme/

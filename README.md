@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @matibulich 👋
-- 👀 I’m interested in Front End devolp, HTML, CSS, FRAMEWORKS, WORDPRESS👀
-- 🌱 I’m currently learning Python, JavaScript🌱 <BR>
+- 👀 Front-End dev, HTML, CSS, JAVASCRIPT, FRAMEWORKS, WORDPRESS;👀
+- 🌱Back-End, PHP, PYTHON.
+-   <BR>
   <br>
     https://matibulich.github.io/aboutme/
   <br>

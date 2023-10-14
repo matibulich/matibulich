@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @matibulich 👋
 - 👀 Front-End dev, HTML, CSS, JAVASCRIPT, FRAMEWORKS, WORDPRESS;👀
 - 🌱Back-End, PHP, PYTHON.
--   <BR>
   <br>
     https://matibulich.github.io/aboutme/
   <br>

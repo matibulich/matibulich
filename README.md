@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @matibulich 👋
 - 👀 Front-End dev, HTML, CSS, JAVASCRIPT, REACT, FRAMEWORKS, WORDPRESS;👀
-- 🌱Back-End: NODE.JS, PHP, PYTHON.
+- 🌱Back-End: NODE.JS, EXPRESS.
  
 <!---
 matibulich/matibulich is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

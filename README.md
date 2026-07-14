@@ -8,7 +8,7 @@ Vivo en Córdoba, Argentina, y cuento con una formación en Publicidad y Marketi
 
 ## 🚀 Sobre Mí
 
-- 🔭 **Enfoque Actual:** Especializado en el ecosistema JavaScript, trabajando con Node.js, Express y React, y utilizando ORMs para la gestión de bases de datos.
+- 🔭 **Enfoque Actual:** Especializado en el ecosistema JavaScript, trabajando con Node.js, React, NEXT.js y utilizando ORMs para la gestión de bases de datos.
 - 💡 **Visión Integral:** Mi formación previa en Marketing permite entender tanto la parte técnica como los objetivos de negocio y la experiencia del usuario.
 - 🌱 **Aprendizaje:** Siempre buscando profundizar en nuevas tecnologías y mejores prácticas de arquitectura de software.
 - 📍 **Ubicación:** Córdoba, Argentina (Disponibilidad para trabajo remoto o híbrido).
@@ -22,7 +22,7 @@ Vivo en Córdoba, Argentina, y cuento con una formación en Publicidad y Marketi
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+
 
 ### Backend & Databases
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -30,6 +30,7 @@ Vivo en Córdoba, Argentina, y cuento con una formación en Publicidad y Marketi
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![NEXT.js](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
 ### Otras Herramientas e IA
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
@@ -75,7 +76,7 @@ Sistema de autenticación segura con registro, login y protección de rutas.
 
 - **LinkedIn:** [Matías Bulich](https://www.linkedin.com/in/matias-bulich/)
 - **Email:** [matibulich@gmail.com](mailto:matibulich@gmail.com)
-- **Portfolio:** [Enlace de tu portfolio actual]
+- **Portfolio:** 
 
 ---
 
@@ -83,6 +84,4 @@ Sistema de autenticación segura con registro, login y protección de rutas.
 Trabajo en equipo | Resolución de problemas | Aprendizaje continuo | Adaptabilidad | Escucha activa
 
 ---
-<p align="center">
-  <i>"Transformando ideas en soluciones tecnológicas con propósito."</i>
-</p>
+

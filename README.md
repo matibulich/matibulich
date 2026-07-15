@@ -2,7 +2,7 @@
 
 ### Desarrollador Full Stack 
 
-Vivo en Córdoba, Argentina, y cuento con una formación en Publicidad y Marketing Digital que me permite aportar una visión estratégica y centrada en el usuario a cada proyecto de software. Actualmente, mi enfoque principal es el desarrollo de aplicaciones robustas y escalables utilizando **Node.js, Express y React**.
+Vivo en Córdoba, Argentina, y cuento con una formación en Publicidad y Marketing Digital que me permite aportar una visión estratégica y centrada en el usuario a cada proyecto de software. Actualmente, mi enfoque principal es el desarrollo de aplicaciones web robustas y escalables utilizando el ecosistema JavaScript.
 
 ---
 

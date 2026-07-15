@@ -76,7 +76,7 @@ Sistema de autenticación segura con registro, login y protección de rutas.
 
 - **LinkedIn:** [Matías Bulich](https://www.linkedin.com/in/matias-bulich/)
 - **Email:** [matibulich@gmail.com](mailto:matibulich@gmail.com)
-- **Portfolio:** (https://www.linkedin.com/in/matias-bulich/)
+- **Portfolio:** https://matibulich.github.io/portfolio/
 
 ---
 

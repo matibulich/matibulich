@@ -47,6 +47,11 @@ Aplicación web para buscar y explorar información sobre películas utilizando 
 - **Tecnologías:** React, JavaScript, Mongoose, REST API.
 - [Repositorio en GitHub](https://github.com/matibulich/MyMovieApp)
 
+### [Finance Dashboard](https://finance-dashboard-nextjs-mauve.vercel.app/)
+Dashboard financiero personal para gestionar portafolios de CEDEARs y criptomonedas, con precios en tiempo real y seguimiento de P&L.
+- **Tecnologías:** NextJs, PostgresSQL + PRISMA, JWT, API, IA Avanzada.
+- [Repositorio en GitHub](https://github.com/matibulich/finance_dashboard_nextjs.git)
+
 ### [Autosync-Dashboard (IA)](https://github.com/matibulich/autosync_dash_IA)
 Controlador de stock inteligente que integra un modelo de IA para realizar consultas de inventario en lenguaje natural.
 - **Tecnologías:** Node.js, Express, React, Prisma, MySQL.
